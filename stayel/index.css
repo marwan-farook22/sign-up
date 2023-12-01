@@ -20,7 +20,14 @@
     }
 
     .create {
-        width: 5em;
+        width: auto;
         font-size: 1em !important;
     }
+
+    .password {
+
+        display: none;
+    }
+
+
 }
